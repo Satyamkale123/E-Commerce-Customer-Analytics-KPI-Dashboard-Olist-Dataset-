@@ -20,7 +20,7 @@ High-value vs at-risk customers
 Using GCP services, SQL modeling, Python processing, and Power BI dashboards, I built a production-ready analytics workflow from raw data → insights.
 
 🚀 Architecture (GCP)
-![Architecture_Diagram](Architecture_Diagram.png)
+![Architecture_Diagram](Architecture_diagram.png)
 
 Below is the pipeline implemented in this project:
 
